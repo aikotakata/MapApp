@@ -11,3 +11,4 @@ The app:
 - Users can comment on other people’s posts
 - For the purposes of this project, there will be one shared map for Dartmouth students, but it will be written in a way to ease scaling upwards and allow individuals and groups to create their own maps
 - Method to export a post into a file
+- https://docs.google.com/presentation/d/1333Yhdu7ZHfD8_deQbttFk-vkqlfNNTGXdntPZVN9iU/edit#slide=id.p
