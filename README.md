@@ -19,8 +19,26 @@ Moving forward:
 - We will both work on UI. 
 
 Show and Tell 2:
-- We will have posts working, so that we can post different types of media on the app to the Firebase
+- We will have posts working, so that we can post different types of media on the app to the Firebase - ran into complications
 - Firebase will be working for registering users and posting information
+
+To Do:
+- Try to bring project back from the dead
+- Learn to do Git
+- Finish database
+- Add user profiles to database
+- Load photos/videos to database 
+- Group markers on map
+- Make explore page with highlights and suggestions -> create algorithm/method to tailor thes posts to the user
+- Finish up MLKit
+- External sharing to other social media platforms
+- Brush up UI
+
+Things we have learned from first portion of project:
+- Divide up work better. Don't divide up work based on amount of time, but on what makes sense-do stuff in terms of order
+- Start a little bit earlier on the work in case of complications.
+- Get the git stuff together. 
 
 - <a href="https://docs.google.com/presentation/d/1333Yhdu7ZHfD8_deQbttFk-vkqlfNNTGXdntPZVN9iU/edit?usp=sharing">Link to google slide</a>
 <img src="Nee Pitch Slide.jpg" alt="img"/>
+
