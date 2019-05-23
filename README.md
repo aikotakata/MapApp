@@ -22,6 +22,8 @@ Show and Tell 2:
 - We will have posts working, so that we can post different types of media on the app to the Firebase - ran into complications
 - Firebase will be working for registering users and posting information
 
+IMG_5056 2.jpg
+
 To Do:
 - Try to bring project back from the dead
 - Learn to do Git
