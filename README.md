@@ -42,5 +42,6 @@ Things we have learned from first portion of project:
 - Get the git stuff together. 
 
 - <a href="https://docs.google.com/presentation/d/1333Yhdu7ZHfD8_deQbttFk-vkqlfNNTGXdntPZVN9iU/edit?usp=sharing">Link to google slide</a>
+<img src="IMG_5057.jpg" alt="img"/>
 <img src="Nee Pitch Slide.jpg" alt="img"/>
 
