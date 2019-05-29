@@ -58,6 +58,7 @@ Git Repository:
 https://gitlab.cs.dartmouth.edu/CharlieXNee/ourmap.git
 
 APK:
+https://drive.google.com/file/d/1CMWwRXwGEZFYeJHF_NJO2ttZHK8bFLfs/view?usp=sharing
 
 Notes about the APK:
 -We have a lot of code, but not a lot of app.
