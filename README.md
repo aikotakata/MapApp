@@ -62,6 +62,10 @@ Notes about the APK:
 -We left the code that didn't end up fully working as comments so that you can see what we tried to do.
 -Sometimes things don't work quite right--try running it again.
 
+Updated MVC:
+<img src="IMG_0120.jpg" alt="img"/>
+Updated Thread Diagram:
+<img src="IMG_0117.jpg" alt="img"/>
 
 - <a href="https://docs.google.com/presentation/d/1333Yhdu7ZHfD8_deQbttFk-vkqlfNNTGXdntPZVN9iU/edit?usp=sharing">Link to google slide</a>
 <img src="IMG_5057.jpg" alt="img"/>
