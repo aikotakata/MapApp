@@ -43,6 +43,7 @@ Things we have learned from first portion of project:
 
 Work Breakdown:
 We mostly worked together. Even when one person started something, the other would help if any issues popped up. We were really collaborative throughout the whole process. We worked together for hours and hours on Tuesday debugging. 
+
 Aiko:
 -Worked on getting the database set up. This included making the posts and creating the structure for them to be posted. This also included figuring out how to get the photos to upload.
 -Worked on getting the posts to show up on the map and what to do when a marker on the map is pressed.
@@ -51,6 +52,7 @@ Charlie:
 -Worked on the loaders for loading the posts from the database. This was a really long process to get it to kind of work.
 -Worked on the history fragment and getting that to work with the loader.
 -Worked on getting the UI to look better.
+-Worked really hard on Wednesday morning to get everything together.
 
 Git Repository:
 https://gitlab.cs.dartmouth.edu/CharlieXNee/ourmap.git
