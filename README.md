@@ -57,6 +57,9 @@ Charlie:
 Git Repository:
 https://gitlab.cs.dartmouth.edu/CharlieXNee/ourmap.git
 
+Slides:
+https://docs.google.com/presentation/d/1AwLkm8SB8koKwkAVXpZtnf5GYEdg4O2TBI4wIUD8V_8/edit?usp=sharing
+
 APK:
 https://drive.google.com/file/d/1CMWwRXwGEZFYeJHF_NJO2ttZHK8bFLfs/view?usp=sharing
 
