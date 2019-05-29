@@ -41,6 +41,28 @@ Things we have learned from first portion of project:
 - Start a little bit earlier on the work in case of complications.
 - Get the git stuff together. 
 
+Work Breakdown:
+We mostly worked together. Even when one person started something, the other would help if any issues popped up. We were really collaborative throughout the whole process. We worked together for hours and hours on Tuesday debugging. 
+Aiko:
+-Worked on getting the database set up. This included making the posts and creating the structure for them to be posted. This also included figuring out how to get the photos to upload.
+-Worked on getting the posts to show up on the map and what to do when a marker on the map is pressed.
+
+Charlie:
+-Worked on the loaders for loading the posts from the database. This was a really long process to get it to kind of work.
+-Worked on the history fragment and getting that to work with the loader.
+-Worked on getting the UI to look better.
+
+Git Repository:
+https://gitlab.cs.dartmouth.edu/CharlieXNee/ourmap.git
+
+APK:
+
+Notes about the APK:
+-We have a lot of code, but not a lot of app.
+-We left the code that didn't end up fully working as comments so that you can see what we tried to do.
+-Sometimes things don't work quite right--try running it again.
+
+
 - <a href="https://docs.google.com/presentation/d/1333Yhdu7ZHfD8_deQbttFk-vkqlfNNTGXdntPZVN9iU/edit?usp=sharing">Link to google slide</a>
 <img src="IMG_5057.jpg" alt="img"/>
 <img src="Nee Pitch Slide.jpg" alt="img"/>
